@@ -36,7 +36,7 @@ The dataset contains **20,765 entries and 22 features**, including:
 ### 1. Data Cleaning
 - **Handle missing data**: `price`, `neighborhood`, and `beds` columns had null values.
 - **Fix data types**: Converted `last_review` to a **datetime** object.
-- **Remove outliers**: Listings with prices > $1,000 were capped to avoid skewed visualizations.
+- **Remove outliers**: Using IQR method over `Price` column to avoid skewed visualizations.
 
 ### 2. EDA (Exploratory Data Analysis)
 1. **Room type distribution**: 
