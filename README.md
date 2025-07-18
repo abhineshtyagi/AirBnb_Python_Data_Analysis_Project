@@ -3,12 +3,11 @@
 # Project Overview
 
   This project performs Exploratory Data Analysis (EDA) on New York Airbnb data to uncover trends and patterns in rental listings. We use libraries like Pandas, Numpy, Matplotlib, Seaborn for cleaning, visualization, and analysis and      Power BI (for interactive dashboard)
+## 📄 Power BI Dashboard (PDF)
 
-  ## 📊 Live Power BI Dashboard
+🧾 [Click here to view the Power BI Dashboard PDF](./Airbnb.NYC.pdf)
 
-👉 [Click here to view the interactive Power BI Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiYOUR_UNIQUE_ID_HERE](https://app.powerbi.com/reportEmbed?reportId=76ebadb7-9a09-4b17-9d46-facb3eafc2fc&autoAuth=true&ctid=21fc845e-e13e-4a83-b8b8-60c7f0206922))
-
-> Note: Make sure the dashboard is shared with public access, or users won't be able to see it.
+> This PDF includes static visuals from the Power BI report.
 
   
 <img width="997" height="392" alt="image" src="https://github.com/user-attachments/assets/8e32b517-fe9d-42d4-a4f4-edb97309c34b" />
