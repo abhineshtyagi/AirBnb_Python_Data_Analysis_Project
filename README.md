@@ -6,7 +6,8 @@
 ## 📄 Power BI Dashboard (PDF)
 
 **Live Dashboard:** [Access the Power BI Dashboard]([https://app.powerbi.com/groups/me/reports/a1d8d255-3488-4a89-8811-4b308a41f3f0/0b9fbc8c6dbc6ba0c3bc?experience=power-bi](https://app.powerbi.com/groups/me/reports/76ebadb7-9a09-4b17-9d46-facb3eafc2fc/ReportSection?experience=power-bi))
-> This PDF includes static visuals from the Power BI report.
+
+---
 
   
 <img width="997" height="392" alt="image" src="https://github.com/user-attachments/assets/8e32b517-fe9d-42d4-a4f4-edb97309c34b" />
