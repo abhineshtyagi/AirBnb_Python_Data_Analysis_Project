@@ -2,7 +2,14 @@
 ---
 # Project Overview
 
-  This project performs Exploratory Data Analysis (EDA) on New York Airbnb data to uncover trends and patterns in rental listings. We use libraries like Pandas, Numpy, Matplotlib, Seaborn for cleaning, visualization, and analysis.
+  This project performs Exploratory Data Analysis (EDA) on New York Airbnb data to uncover trends and patterns in rental listings. We use libraries like Pandas, Numpy, Matplotlib, Seaborn for cleaning, visualization, and analysis and      Power BI (for interactive dashboard)
+
+  ## 📊 Live Power BI Dashboard
+
+👉 [Click here to view the interactive Power BI Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiYOUR_UNIQUE_ID_HERE](https://app.powerbi.com/reportEmbed?reportId=76ebadb7-9a09-4b17-9d46-facb3eafc2fc&autoAuth=true&ctid=21fc845e-e13e-4a83-b8b8-60c7f0206922))
+
+> Note: Make sure the dashboard is shared with public access, or users won't be able to see it.
+
   
 <img width="997" height="392" alt="image" src="https://github.com/user-attachments/assets/8e32b517-fe9d-42d4-a4f4-edb97309c34b" />
 
@@ -16,6 +23,26 @@ The goal of this project is to:
 4. Provide recommendations for guests and hosts based on insights.
 
 ---
+---
+## Dashboard Highlights
+
+🔍 Key Insights:
+
+1.Average Price across NYC listings: $153
+
+2.Most expensive borough: Manhattan ($197), followed by Brooklyn ($124)
+
+3.Most affordable: Bronx ($88)
+
+4.Total Listings Analyzed: 349,305
+
+5.Most Common Room Type: Entire home/apt (52%), followed by Private room (46%)
+
+6.Neighborhoods with Highest Reviews: Brooklyn and Manhattan
+
+7.Highest Availability: Staten Island (avg. ~200 days), despite low review count
+
+8.Top Hosts: 'Alex', 'Chris', and 'Daniel' have top listings across multiple boroughs
 
 ## Dataset
 The dataset contains **20,765 entries and 22 features**, including:
