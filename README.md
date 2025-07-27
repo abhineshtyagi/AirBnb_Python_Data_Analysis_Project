@@ -20,26 +20,7 @@ The goal of this project is to:
 4. Provide recommendations for guests and hosts based on insights.
 
 ---
----
-## Dashboard Highlights
 
-🔍 Key Insights:
-
-1.Average Price across NYC listings: $153
-
-2.Most expensive borough: Manhattan ($197), followed by Brooklyn ($124)
-
-3.Most affordable: Bronx ($88)
-
-4.Total Listings Analyzed: 349,305
-
-5.Most Common Room Type: Entire home/apt (52%), followed by Private room (46%)
-
-6.Neighborhoods with Highest Reviews: Brooklyn and Manhattan
-
-7.Highest Availability: Staten Island (avg. ~200 days), despite low review count
-
-8.Top Hosts: 'Alex', 'Chris', and 'Daniel' have top listings across multiple boroughs
 
 ## Dataset
 The dataset contains **20,765 entries and 22 features**, including:
@@ -110,7 +91,27 @@ The dataset contains **20,765 entries and 22 features**, including:
 5. **Host Behavior**:  
    - Some hosts manage **multiple listings**, indicating a trend toward professional hosting.
 ---
+---
+## Dashboard Highlights
 
+🔍 Key Insights:
+
+1.Average Price across NYC listings: $153
+
+2.Most expensive borough: Manhattan ($197), followed by Brooklyn ($124)
+
+3.Most affordable: Bronx ($88)
+
+4.Total Listings Analyzed: 349,305
+
+5.Most Common Room Type: Entire home/apt (52%), followed by Private room (46%)
+
+6.Neighborhoods with Highest Reviews: Brooklyn and Manhattan
+
+7.Highest Availability: Staten Island (avg. ~200 days), despite low review count
+
+8.Top Hosts: 'Alex', 'Chris', and 'Daniel' have top listings across multiple boroughs
+ ---
 ## Recommendations
 - **For Guests**: 
    - Look for listings with high availability and good reviews for a better experience.
